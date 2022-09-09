@@ -38,6 +38,8 @@ https://github.com/Luciana-Pessoa
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito com ❤️ por Luciana Pessoa 👋🏽 [Entre em contato!]https://www.instagram.com/eulucianapp/
- https://luciana-pessoa.github.io/site-demostrativo-salao01/
+Feito com ❤️ por Luciana Pessoa 👋🏽 [Entre em contato!]
+https://www.instagram.com/eulucianapp/
+
 ---
+ https://luciana-pessoa.github.io/site-demostrativo-salao01/
