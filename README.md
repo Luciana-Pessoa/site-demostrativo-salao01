@@ -1,4 +1,4 @@
-## 💻 Sobre o site https://luciana-pessoa.github.io/site-demostrativo-salao01/
+## 💻 Sobre o site
 
 O Site e um projeto Demonstrativo com informaçoes e imagens ilustrativas, usado apenas para mostrar minhas habilidades.
 
@@ -39,5 +39,5 @@ https://github.com/Luciana-Pessoa
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
 Feito com ❤️ por Luciana Pessoa 👋🏽 [Entre em contato!]https://www.instagram.com/eulucianapp/
-
+ https://luciana-pessoa.github.io/site-demostrativo-salao01/
 ---
